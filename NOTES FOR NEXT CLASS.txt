@@ -1,0 +1,19 @@
+//==== 
+SOLVED: figure out why valid wallet is not working 
+
+//==== 
+SKIP: find out
+why reset button is not resetting wallet 
+
+//==== 
+SKIP: remove reset button? 
+
+//====
+DONE:
+change register to submit/send 
+
+//====
+--> in progress: add wallet 
+
+//====
+clean up const that is not being used on the site
